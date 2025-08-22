@@ -32,3 +32,7 @@ Open the notebook in Google Colab or Jupyter Notebook.
 Load the california_housing.csv dataset.
 
 Run all cells to see data analysis, model training, evaluation, and visualizations.
+
+**Project Link**
+
+Colab Notebook: 
